@@ -20,16 +20,22 @@ A simple Python program for basic DNA sequence analysis.
 
 ## Example
 
-Input:
+Input:  
 
-ATGCGTACG
+ATGCGTACG  
 
-Output:
+Output:  
 
-DNA complement: TACGCATGC
-Length of DNA: 9
-A: 2
-G: 3
-C: 2
-T: 2
-GC: 55.55%
+DNA complement: TACGCATGC  
+
+Length of DNA: 9  
+
+A: 2  
+
+G: 3  
+
+C: 2  
+
+T: 2  
+
+GC: 55.55%  
